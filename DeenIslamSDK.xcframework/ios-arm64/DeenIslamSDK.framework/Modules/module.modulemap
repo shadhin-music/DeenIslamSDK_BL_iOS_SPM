@@ -7,5 +7,4 @@ framework module DeenIslamSDK {
 
 module DeenIslamSDK.Swift {
   header "DeenIslamSDK-Swift.h"
-  requires objc
 }

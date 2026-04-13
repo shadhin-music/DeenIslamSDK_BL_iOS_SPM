@@ -38,7 +38,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		fKWu0qlG3N/LrZ2ROJXM9LZXJtE=
+		f4ZPBrFDhbnXGhyLAx+JGxua2k4=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -522,7 +522,7 @@
 		</data>
 		<key>Headers/DeenIslamSDK-Swift.h</key>
 		<data>
-		CVDwjfCtVH1RpFsiPegIjuVq9+s=
+		YuJbZ7npQ7ofRs2J5m7hGdbPZLg=
 		</data>
 		<key>Headers/DeenIslamSDK.h</key>
 		<data>
@@ -646,7 +646,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Nuwwq84UM5aTikzDtEUP7slF74w=
+		SsiLRG9HTIhhHfewontOQ4X5K9M=
 		</data>
 		<key>IslamicBookCategoryVC.nib</key>
 		<data>
@@ -778,47 +778,47 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		lgGf8FLk0O7hWFxLisNAyQxK4oA=
+		JRBgii6wKZ9hHc9PzvI1VDNRp3k=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		z/KJyU3Lum/WrNqpHJqbJC2N2gM=
+		gtKi9/oE5BiNMcCNRRZT1WHk5xE=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ywO6P2AUOLoUX7hBzYatUkDLZjE=
+		bAkyrKirSyKmSpm98+QYDFvpDTc=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		z/KJyU3Lum/WrNqpHJqbJC2N2gM=
+		gtKi9/oE5BiNMcCNRRZT1WHk5xE=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zZ4zyDyiVkDNdFwI1cVFbZLkr4c=
+		1NTnSk/LcIL4Fy3Ylnw8deX6Zgk=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		lgGf8FLk0O7hWFxLisNAyQxK4oA=
+		JRBgii6wKZ9hHc9PzvI1VDNRp3k=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		tnpSCBtRzg6Q6dpGmcSbWiY0vJs=
+		QSledX49hUFOqS8AmLarZjVoZbo=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9WosFJLjGZ5zWWolCCZBk45fxGU=
+		yWupxFWkDyyFif0I8SbE+TcGjFE=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tnpSCBtRzg6Q6dpGmcSbWiY0vJs=
+		QSledX49hUFOqS8AmLarZjVoZbo=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Agram3L5kqn08c1svIsnTuqLJYE=
+		oJEVSQsXYOIGxf+ZZksqQsnDzpc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		4ZwFPA3LcthHbdCq7eB7dZiO7Ss=
+		8lJF/SoF7NxtUEzH3CstswDs1M8=
 		</data>
 		<key>MonthlyTrackerCell.nib</key>
 		<data>
@@ -1480,10 +1480,6 @@
 		<data>
 		kp+buNSqR5ZdJZKm/bHhuJhZ2mc=
 		</data>
-		<key>azan.mp3</key>
-		<data>
-		Xo+1P0CTTKtql/xfboziJh9QKeg=
-		</data>
 		<key>bn.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1633,7 +1629,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JOXifb9TL9g8zZYTlYZmCBunLPV9pnE0nKVBQ5sTNec=
+			8ij2foc+DuKJ3DiMfqCE96JroM9gfWhQ0/E9Yf+K5H0=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -2480,7 +2476,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2i6jC1z1UUjTsGjoW/auwAD43lkLdSQYuvBto57Y5TQ=
+			OCcyF/q/oJf/gYUkDbA0HJtif0KLf2Cie36T7jIzg20=
 			</data>
 		</dict>
 		<key>Headers/DeenIslamSDK.h</key>
@@ -2921,77 +2917,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8NZ9E9W5tOWKGdN/58I/EhGQ2M/5zcChU/3FX8W4mW8=
+			0UjSogagrCwW92tcKnZCkjMGBU1xi4kWBplRocvjpcc=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xtNZWOkuGyGJzdH8vfESJXQSDPTu9Ku/seY88VZfYGI=
+			9f2IMhWyuUWswsyFPX9cACnJvuJjNMn/tFBbFcoaKZ8=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YUVVBOG03LPy3cMvMQGpAkSXL/a4luaRBvaXTTj0YrY=
+			u9ksv0zGiXD/nqr6HkD2+l7wZU1rRrpATe4eCIWpvXQ=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xtNZWOkuGyGJzdH8vfESJXQSDPTu9Ku/seY88VZfYGI=
+			9f2IMhWyuUWswsyFPX9cACnJvuJjNMn/tFBbFcoaKZ8=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7XT+hvtWiLKgotHDiyWQ7y2aBXICJXiXLSIXceHCxaA=
+			l8COyjkCPSpj0DXjYgTIIs9DhLtu1xGVmB7YW7feGU0=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8NZ9E9W5tOWKGdN/58I/EhGQ2M/5zcChU/3FX8W4mW8=
+			0UjSogagrCwW92tcKnZCkjMGBU1xi4kWBplRocvjpcc=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I5GyLRnZYy+sX1mN4oiSdxzTL9DwLx8FsUOrtqR1Oqw=
+			u9giM/tIMzn+mxH3R4Sor/A7Yop05TQVAwcxEogzToY=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J/ipj0zKTQRNVk+iNkAD/wyFn7CVsvG4ioaVY1efvBk=
+			uVOjwyqndV6YGiqplShSuVYuHTRSeT0Xhgb5mDy5Rkg=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I5GyLRnZYy+sX1mN4oiSdxzTL9DwLx8FsUOrtqR1Oqw=
+			u9giM/tIMzn+mxH3R4Sor/A7Yop05TQVAwcxEogzToY=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w4aSEPFTvfsVEnQF+m811df1vDHCaGuopX35Ry4M0N4=
+			/Gjx+/84yxnQ0q0QfLj4/Ks7qIJj1a/l8id4eX3xDfY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ColzB1NUkezrinqgYAPTvflWs/p1UVyJ8yJ0Fo0ytLg=
+			KHOsrXHxFppxf4TyPCmkKuHJRnt7Sgltu4+cfAt1ve4=
 			</data>
 		</dict>
 		<key>MonthlyTrackerCell.nib</key>
@@ -4147,13 +4143,6 @@
 			<key>hash2</key>
 			<data>
 			e3pKW6zewZCgmPKJ55gy/gHwaqHfwCvr3DvCY6p7bAU=
-			</data>
-		</dict>
-		<key>azan.mp3</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KWsDXhfd42kAN/JakuPgEx4HMdJ6KMwX4PgVNjP1zaA=
 			</data>
 		</dict>
 		<key>bn.lproj/Localizable.strings</key>
