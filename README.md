@@ -1,4 +1,4 @@
-# MyGPDeeniOS
+# MyBLDeeniOS
 
 
 sdk is published
